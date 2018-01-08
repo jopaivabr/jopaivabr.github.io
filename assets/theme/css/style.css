@@ -403,7 +403,8 @@ nav .mbr-section-btn {
   -webkit-animation: gradient-animation 5s infinite alternate; }
 
 .menu .navbar-brand {
-  display: -webkit-flex; }
+  display: -webkit-flex;
+  display: flex; }
   .menu .navbar-brand span {
     display: flex;
     display: -webkit-flex; }
@@ -418,10 +419,8 @@ nav .mbr-section-btn {
     display: -ms-flexbox; } }
 @media (min-width: 992px) {
   .menu .navbar-nav.nav-dropdown {
-    display: -ms-flexbox;
     display: -webkit-flex; }
   .menu .navbar-toggleable-sm .navbar-collapse {
-    display: -ms-flexbox !important;
     display: -webkit-flex !important; } }
 
 /*# sourceMappingURL=style.css.map */
