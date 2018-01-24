@@ -151,18 +151,18 @@ body {
 .btn-primary.active {
   background-color: #f9e2af;
   border-color: #f9e2af;
-  color: #ffffff;
+  color: #9d700c;
 }
 .btn-primary:hover,
 .btn-primary:focus,
 .btn-primary.focus {
-  color: #ffffff;
+  color: #9d700c;
   background-color: #f4c868;
   border-color: #f4c868;
 }
 .btn-primary.disabled,
 .btn-primary:disabled {
-  color: #ffffff !important;
+  color: #9d700c !important;
   background-color: #f4c868 !important;
   border-color: #f4c868 !important;
 }
@@ -211,18 +211,18 @@ body {
 .btn-success.active {
   background-color: #98e38d;
   border-color: #98e38d;
-  color: #ffffff;
+  color: #1f5b16;
 }
 .btn-success:hover,
 .btn-success:focus,
 .btn-success.focus {
-  color: #ffffff;
+  color: #1f5b16;
   background-color: #61d450;
   border-color: #61d450;
 }
 .btn-success.disabled,
 .btn-success:disabled {
-  color: #ffffff !important;
+  color: #1f5b16 !important;
   background-color: #61d450 !important;
   border-color: #61d450 !important;
 }
@@ -274,20 +274,20 @@ body {
 .btn-white.active {
   background-color: #ffffff;
   border-color: #ffffff;
-  color: #ffffff;
+  color: #808080;
 }
 .btn-white:hover,
 .btn-white:focus,
 .btn-white.focus {
-  color: #ffffff;
-  background-color: #d4d4d4;
-  border-color: #d4d4d4;
+  color: #808080;
+  background-color: #d9d9d9;
+  border-color: #d9d9d9;
 }
 .btn-white.disabled,
 .btn-white:disabled {
-  color: #ffffff !important;
-  background-color: #d4d4d4 !important;
-  border-color: #d4d4d4 !important;
+  color: #808080 !important;
+  background-color: #d9d9d9 !important;
+  border-color: #d9d9d9 !important;
 }
 .btn-black,
 .btn-black:active,
@@ -319,13 +319,13 @@ body {
 .btn-primary-outline:hover,
 .btn-primary-outline:focus,
 .btn-primary-outline.focus {
-  color: #ffffff;
+  color: #9d700c;
   background-color: #f9e2af;
   border-color: #f9e2af;
 }
 .btn-primary-outline.disabled,
 .btn-primary-outline:disabled {
-  color: #ffffff !important;
+  color: #9d700c !important;
   background-color: #f9e2af !important;
   border-color: #f9e2af !important;
 }
@@ -379,13 +379,13 @@ body {
 .btn-success-outline:hover,
 .btn-success-outline:focus,
 .btn-success-outline.focus {
-  color: #ffffff;
+  color: #1f5b16;
   background-color: #98e38d;
   border-color: #98e38d;
 }
 .btn-success-outline.disabled,
 .btn-success-outline:disabled {
-  color: #ffffff !important;
+  color: #1f5b16 !important;
   background-color: #98e38d !important;
   border-color: #98e38d !important;
 }
@@ -1044,7 +1044,7 @@ body {
   }
 }
 .cid-qGaXaEnQlu {
-  background-image: url("../../../assets/images/verde-molti-colori-1313x657.jpg");
+  background-image: url("../../../assets/images/decormartins1-1024x450.jpg");
 }
 .cid-qGaXaEnQlu .mbr-overlay {
   background: #232323;
